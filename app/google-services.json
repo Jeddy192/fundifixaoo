@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509973498611",
+    "project_id": "fundifix-bb42e",
+    "storage_bucket": "fundifix-bb42e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509973498611:android:50a55078371459a9eb0586",
+        "android_client_info": {
+          "package_name": "com.jeddy.fundifixapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-twnkm4eU2IJREory4yFe2vaubLbzmZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
