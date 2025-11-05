@@ -73,7 +73,6 @@ fun AppNavHost(
 
     }
 
-        // ❌ Remove this one — it's broken and duplicates the above dynamic route
-        // composable(ROUTE_FUNDIDETAILS) { (navController) }
+        
     }
 
